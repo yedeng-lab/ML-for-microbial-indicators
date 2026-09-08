@@ -547,7 +547,7 @@ The script will automatically:
 
 ---
 
-## Suggested Repository Structure
+## Repository Structure
 
 A clear organization for the repository is:
 
@@ -568,7 +568,7 @@ A clear organization for the repository is:
 │       ├── svm_fungi.py
 │       └── xgboost_fungi.py
 │
-├── maps/
+├── output/
 │   ├── bacteria/
 │   │   ├── China_pH_kriging_prediction.tif
 │   │   ├── China_SOC_kriging_prediction.tif
@@ -583,10 +583,6 @@ A clear organization for the repository is:
 │
 └── README.md
 ```
-
-This structure avoids filename conflicts when bacterial and fungal raster products have the same names.
-
----
 
 ## Scope
 
