@@ -560,7 +560,7 @@ A clear organization for the repository is:
 │   ├── svm_bacteria.py
 │   └── xgboost_bacteria.py
 │
-└── fungi_script4github/
+├── fungi_script4github/
 |   ├── elasticnet_fungi.py
 │   ├── lightgbm_fungi.py
 │   ├── randomforest_fungi.py
